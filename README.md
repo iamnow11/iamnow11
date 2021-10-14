@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center"> Hi 👋, I am Rishabh Prajapati</h2>
+<h2 align="center"> Hi 👋, I am Abhishek Shah</h2>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=r3habb99&show_icons=true" alt="git stats"> -->
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">
 🔭 I’m currently working on my <b>Skills</b> <br/>
  🌱 I’m currently learning and focusing on <b>MERN STACK DEVELOPMENT</b><br/>
- 📫 Reach me at on Instagram : <a href="https://www.instagram.com/r3habb.99">r3habb.99</a>&#x2764<br/>
+ 📫 Reach me at on Instagram : <a href="https://www.instagram.com/_iamnow">_iamnow</a>&#x2764<br/>
  </p>
 
 <h3 align="center">Connect with me:</h3>
